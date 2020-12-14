@@ -1,21 +1,20 @@
+## Hi, I'm Anirudha B Shetty 🙏🏻 💻
 
-
-### Hi, I'm Anirudha B Shetty 🙏🏻 💻
-
-
- <a href="https://twitter.com/ab007shetty/">
-  <img align="left" alt="Anirudha B Shetty| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
- </a>
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anirudha B Shetty | Linkedin" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
+<a href="https://ab007shetty.github.io/">
+  <img align="left" alt="Anirudha B Shetty| Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
+</a>
+<a href="https://ab007shetty.pythonanywhere.com">
+  <img align="left" alt="Anirudha B Shetty| Blog" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1187/1187544.svg" />
+</a>
+ <a href="https://twitter.com/ab007shetty/">
+  <img align="left" alt="Anirudha B Shetty| Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+ </a>
 
 <a href="https://www.instagram.com/a.b.shetty/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://ab007shetty.github.io/">
-  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Anirudha B Shetty| Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
 </a>
 
 
@@ -23,41 +22,46 @@
 <br/>
 <br/>
 
-<br/>
-<br/>
 
+ I am a Computer Science Engineer 💻. 
+ I have little bit experience and lots of Interest in Full Stack Web Developement.
+ Some technology I enjoy working  with include Django, MySQl, React, BootStarp etc.
 
- I am a Computer Science Engineer 💻. I have little bit experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQl, React, BootStarp etc.
-
-
- 
-<br />
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
+<br>
+I am searching for new opportunities to explore and learn about these fields. 
+<br>
 <br />
 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ab007shetty.github.io/)
+<hr> 
 
+<h2><b>Languages:<b> </h2>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png"></code>
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/603/603201.svg"></code>
+<br> <br>
 
-Here are some ideas to get you started:
+<h2><b>Tools:<b> </h2>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_word-512.png"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_powerpoint-512.png"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png"></code>
+<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
+<br><br>
 
+<br />
 
+<br>
 - 🔭 I’m currently working on Upgrading Myself
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Django and React JS.
+- 🤔 I’m looking for help with React JS.
+- 💬 Ask me about Anything.
+- 📫 How to reach me: ab007@gmail.com
 - ⚡ Fun fact: I'm  Very Serioud guy.
-
-
