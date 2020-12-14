@@ -56,10 +56,10 @@ I am searching for new opportunities to explore and learn about these fields.
 <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
 <br><br>
 
-<br>
-- 🔭 I’m currently working on Upgrading Myself
+
+- 🔭 I’m currently working on Upgrading Myself.
 - 🌱 I’m currently learning Django and React JS.
-- 🤔 I’m looking for help with React JS.
 - 💬 Ask me about Anything.
-- 📫 How to reach me: ab007@gmail.com
+- 📫 How to reach me: ab007shetty@gmail.com
 - ⚡ Fun fact: I'm  Very Serioud guy.
+
