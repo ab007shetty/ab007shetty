@@ -56,8 +56,6 @@ I am searching for new opportunities to explore and learn about these fields.
 <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
 <br><br>
 
-<br />
-
 <br>
 - 🔭 I’m currently working on Upgrading Myself
 - 🌱 I’m currently learning Django and React JS.
