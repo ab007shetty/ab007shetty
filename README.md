@@ -61,5 +61,5 @@ I am searching for new opportunities to explore and learn about these fields.
 - 🌱 I’m currently learning Django and React JS.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: ab007shetty@gmail.com
-- ⚡ Fun fact: I'm  Very Serioud guy.
+- ⚡ Fun fact: I'm  Very Serious guy.
 
