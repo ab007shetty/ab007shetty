@@ -1,4 +1,4 @@
-## Hi, I'm Anirudha B Shetty 🙏🏻 💻  ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+## Hi, I'm Anirudha B Shetty 🙏🏻 💻  ![](https://visitor-badge.glitch.me/badge?page_id=ab007shetty.ab007shetty)
 
 
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
@@ -32,9 +32,7 @@ I am searching for new opportunities to explore and learn about these fields.
 <br>
 <br />
 
-  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/master/code.gif?raw=true" width="500" height="320" />
- 
- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/code.gif?raw=true" width="500" height="320" />
 
 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ab007shetty.github.io/)
