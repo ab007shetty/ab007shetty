@@ -38,7 +38,7 @@
 <br>
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="410" height="100%" />
+  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="380" height="100%" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ab007shetty/github-readme-stats)
 </div>
