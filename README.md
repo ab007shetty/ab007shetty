@@ -30,13 +30,13 @@
 <br>
 <br>
 
-  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="300" height="100%" />
 
 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ab007shetty.github.io/)
 <hr> 
 
-<h2><b>Languages:<b> </h2>
+<h2><b>Known Languages:<b> </h2>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg"></code>
 <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png"></code>
@@ -48,7 +48,7 @@
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/603/603201.svg"></code>
 <br> <br>
 
-<h2><b>Tools:<b> </h2>
+<h2><b>Known Tools:<b> </h2>
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"></code>
 <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_word-512.png"></code>
 <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_powerpoint-512.png"></code>
