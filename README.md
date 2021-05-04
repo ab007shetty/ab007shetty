@@ -1,4 +1,4 @@
-## Hi, I'm Anirudha B Shetty 🙏🏻 💻  ![](https://visitor-badge.glitch.me/badge?page_id=ab007shetty.ab007shetty)
+# Hi, I'm Anirudha B Shetty  💻  ![](https://visitor-badge.glitch.me/badge?page_id=ab007shetty.ab007shetty)
 
 
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
@@ -10,10 +10,9 @@
 <a href="https://ab007shetty.pythonanywhere.com">
   <img align="left" alt="Anirudha B Shetty| Blog" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1187/1187544.svg" />
 </a>
- <a href="https://twitter.com/ab007shetty/">
+<a href="https://twitter.com/ab007shetty/">
   <img align="left" alt="Anirudha B Shetty| Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
- </a>
-
+</a>
 <a href="https://www.instagram.com/a.b.shetty/">
   <img align="left" alt="Anirudha B Shetty| Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
 </a>
@@ -28,12 +27,35 @@
  Some technology I enjoy working  with include Django, MySQl, React, BootStarp4 etc.
 
 <br>
+
 <div>
   <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="300" height="194" />
-
+  
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ab007shetty.github.io/)
-<div>
+</div>
 <hr> 
+
+<br>
+
+<div>
+  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="410" height="100%" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ab007shetty/github-readme-stats)
+</div>
+<hr> 
+  
+  
+  
+  
+<div align="right"> 
+<a href="https://github.com/ab007shetty/django-for-everybody">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=django-for-everybody&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/ab007shetty/eClassroom">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=eClassroom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+</div>
+<hr>
 
 <h2><b>Known Languages:<b> </h2>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
@@ -41,11 +63,13 @@
 <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png"></code>
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg"></code>
 <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png"></code>
-<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></code>
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></code>![]
 <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></code>
 <code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png"></code>
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/603/603201.svg"></code>
 <br> <br>
+   
+<hr>
 
 <h2><b>Known Tools:<b> </h2>
 <code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"></code>
