@@ -25,11 +25,11 @@
 
  I am a passionate self-taught Full Stack web developer and a freelance Computer Science Engineer from India.
  I have little bit experience and lots of Interest in Full Stack Web Developement.
- Some technology I enjoy working  with include Django, MySQl, React, BootStarp etc.
+ Some technology I enjoy working  with include Django, MySQl, React, BootStarp4 etc.
 
 <br>
 <div>
-  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="300" height="195" />
+  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="437" height="193" />
 
 [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ab007shetty.github.io/)
 <div>
