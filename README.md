@@ -1,4 +1,8 @@
-# Hi, I'm Anirudha B Shetty  💻  ![](https://visitor-badge.glitch.me/badge?page_id=ab007shetty.ab007shetty)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
+
+<h1 align="left">
+Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="68">
+</h1>
 
 
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
@@ -36,8 +40,6 @@
 </div>
 <hr> 
 
-<br>
-
   
  
 ## 📊 Github Stats
@@ -47,16 +49,27 @@
 ![Most Used Languages](https://github.com/ab007shetty/github-stats/blob/master/generated/languages.svg)
 
 </a>
+<hr>
 
-<br>
+## 🔥 Streak stats
+<a align="center" href='https://github.com/ab007shetty/github-stats'>
+
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ab007shetty&theme=monokai-metallian&hide_border=true)
+
+</a>
+<hr>
+ 
+ ## 📘 My top open source projects
 
   
 <div align="right"> 
 <a href="https://github.com/ab007shetty/django-for-everybody">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=django-for-everybody&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+  
 <a href="https://github.com/ab007shetty/eClassroom">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=eClassroom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+
 </div>
 <hr>
