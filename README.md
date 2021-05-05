@@ -48,8 +48,8 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 ## 📊 Github Stats
 <a align="center" href='https://github.com/ab007shetty/github-stats'>
 
-![Stats Overview](https://github.com/ab007shetty/github-stats/blob/master/generated/overview.svg)
-![Most Used Languages](https://github.com/ab007shetty/github-stats/blob/master/generated/languages.svg)
+![Stats Overview](https://github.com/ab007shetty/github-stats/blob/main/generated/overview.svg)
+![Most Used Languages](https://github.com/ab007shetty/github-stats/blob/main/generated/languages.svg)
 
 </a>
 <hr>
