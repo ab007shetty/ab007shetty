@@ -26,7 +26,7 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 <br/>
 <br/>
 
- I am a passionate self-taught Full Stack web developer and a freelance Computer Science Engineer from India.
+ I am a passionate self-taught Full Stack web developer and a Computer Science Engineer from India.
  I have little bit experience and lots of Interest in Full Stack Web Developement.
  Some technology I enjoy working  with include Django, MySQl, React, BootStarp4 etc.
 
@@ -54,7 +54,7 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 </a>
 <hr>
 
-## 🔥 Streak stats
+## 🔥 Streak Stats
 <a align="center" href='https://github.com/ab007shetty/github-stats'>
 
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ab007shetty&theme=monokai-metallian&hide_border=true)
