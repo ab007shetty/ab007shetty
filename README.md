@@ -36,7 +36,7 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 <div>
   <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="300" height="194" />
   
-[![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ab007shetty.github.io/)
+[![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=fff&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://ab007shetty.github.io/)
 </div>
 <hr> 
 
@@ -73,3 +73,14 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 
 </div>
 <hr>
+
+
+## 💖 My Favorite Tools
+
+
+<hr>
+
+
+## 📈Activity Graph
+
+<a href="https://github.com/ab007shetty/github-stats"><img alt="ab007shetty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ab007shetty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
