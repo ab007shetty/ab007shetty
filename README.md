@@ -28,6 +28,7 @@
 
 <br>
 
+
 <div>
   <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="300" height="194" />
   
@@ -37,15 +38,18 @@
 
 <br>
 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="380" height="100%" />
+  
+ 
+## 📊 Github Stats
+<a align="center" href='https://github.com/ab007shetty/github-stats'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab007shetty&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ab007shetty/github-readme-stats)
-</div>
-<hr> 
-  
-  
-  
+![Stats Overview](https://github.com/ab007shetty/github-stats/blob/master/generated/overview.svg)
+![Most Used Languages](https://github.com/ab007shetty/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+<br>
+
   
 <div align="right"> 
 <a href="https://github.com/ab007shetty/django-for-everybody">
@@ -56,34 +60,3 @@
 </a>
 </div>
 <hr>
-
-<h2><b>Known Languages:<b> </h2>
-<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></code>
-<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg"></code>
-<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png"></code>
-<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg"></code>
-<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png"></code>
-<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></code>![]
-<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"></code>
-<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png"></code>
-<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/603/603201.svg"></code>
-<br> <br>
-   
-<hr>
-
-<h2><b>Known Tools:<b> </h2>
-<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"></code>
-<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_word-512.png"></code>
-<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_powerpoint-512.png"></code>
-<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png"></code>
-<code><img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png"></code>
-<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
-<br><br>
-
-
-- 🔭 I’m currently working on Upgrading Myself.
-- 🌱 I’m currently learning Django and React JS.
-- 💬 Ask me about Anything.
-- 📫 How to reach me: ab007shetty@gmail.com
-- ⚡ Fun fact: I'm  Very Serious guy.
-
