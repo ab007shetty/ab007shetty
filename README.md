@@ -21,8 +21,6 @@
   <img src="https://github.com/ab007shetty/ab007shetty/blob/main/6.png"" width="">
 </h1>
 
-<br/>
-
  I am a passionate self-taught Full Stack web developer and a Computer Science Engineer from India.
  I have little bit experience and lots of Interest in Full Stack Web Developement.
  Some technology I enjoy working  with include Django, MySQl, React, BootStarp4 etc.
