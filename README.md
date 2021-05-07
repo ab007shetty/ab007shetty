@@ -21,26 +21,6 @@
   <img src="https://github.com/ab007shetty/ab007shetty/blob/main/6.png"" width="">
 </h1>
 
-
-<a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
-  <img align="left" alt="Anirudha B Shetty | Linkedin" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-</a>
-<a href="https://ab007shetty.github.io/">
-  <img align="left" alt="Anirudha B Shetty| Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
-</a>
-<a href="https://ab007shetty.pythonanywhere.com">
-  <img align="left" alt="Anirudha B Shetty| Blog" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1187/1187544.svg" />
-</a>
-<a href="https://twitter.com/ab007shetty/">
-  <img align="left" alt="Anirudha B Shetty| Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
-</a>
-<a href="https://www.instagram.com/a.b.shetty/">
-  <img align="left" alt="Anirudha B Shetty| Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
-</a>
-
-
-
-<br/>
 <br/>
 
  I am a passionate self-taught Full Stack web developer and a Computer Science Engineer from India.
