@@ -47,6 +47,9 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
  
 ## 📊 Github Stats
 <div>
+      <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/logo.png" width="210px" height="" />
+
+  
 <a align="left" href='https://github.com/ab007shetty/github-stats'>
 
 ![Stats Overview](https://github.com/ab007shetty/github-stats/blob/main/generated/overview.svg)
