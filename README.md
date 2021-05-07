@@ -42,9 +42,6 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 <hr> 
   
  
-
- 
- 
 ## 📊 Github Stats
 <div>
       <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/escr.gif" width="419" height="" />
@@ -70,7 +67,7 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 </div>
 <hr>
  
- ## 📘 My top open source projects
+ ## 📘 My Repositories
 
   
 <div align="right"> 
