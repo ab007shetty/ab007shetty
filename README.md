@@ -40,15 +40,15 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 
 </div>
 <hr> 
-  
- 
-
- 
  
 ## 📊 Github Stats
 <div>
-      <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/escr.gif" width="419" height="" />
+<div align=""right">
+                   
+  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=28&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" width="500" height=""  />
 
+<img align="right" style="padding-top:30;" alt="GIF" src="https://github-readme-streak-stats.herokuapp.com/?user=ab007shetty&theme=monokai-metallian&hide_border=true" width="500" height="" />
+</div>
   
 <a align="left" href='https://github.com/ab007shetty/github-stats'>
 
