@@ -46,20 +46,25 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
  
  
 ## 📊 Github Stats
-<a align="center" href='https://github.com/ab007shetty/github-stats'>
+<div>
+<a align="left" href='https://github.com/ab007shetty/github-stats'>
 
 ![Stats Overview](https://github.com/ab007shetty/github-stats/blob/main/generated/overview.svg)
 ![Most Used Languages](https://github.com/ab007shetty/github-stats/blob/main/generated/languages.svg)
 
 </a>
+
+
+</div>
 <hr>
 
 ## 🔥 Streak Stats
-<a align="center" href='https://github.com/ab007shetty/github-stats'>
+<div >
+    <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/tech.gif" width="300" height="195" />
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ab007shetty&theme=monokai-metallian&hide_border=true)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ab007shetty&theme=monokai-metallian&hide_border=true)](https://github.com/ab007shetty/)
 
-</a>
+</div>
 <hr>
  
  ## 📘 My top open source projects
@@ -80,7 +85,7 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 
 ## 💖 My Favorite Tools
 
-
+<div>
 <table>
   <tr>
     <td align="center" width="96">
@@ -195,7 +200,7 @@ Hi, I'm Anirudha B Shetty  <img src="https://media.giphy.com/media/hvRJCLFzcasrR
     </td>
   </tr>
 </table>
-
+</div>
 <hr>
 
 
