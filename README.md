@@ -84,114 +84,114 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
       </a>
-      <br>Go
+      <br>GCP
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
       </a>
-      <br>Jsonnet
+      <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome" />
       </a>
-      <br>TypeScript
+      <br>Chrome
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+      <br>BootStrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>Sass
+      <br>Django
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="jupyter" />
       </a>
-      <br>Docker
+      <br>Jupyter
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="VS" />
       </a>
-      <br>Kubernetes
+      <br>VS Code
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       </a>
-      <br>Debian
+      <br>GitHub
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
       </a>
-      <br>RHEL
+      <br>WordPress
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>Powershell
+      <br>Linux
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="php" />
       </a>
-      <br>Grafana
+      <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Prometheus
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="node" />
       </a>
-      <br>Thanos
+      <br>NodeJS
     </td>
   </tr>
 </table>
