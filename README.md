@@ -190,7 +190,7 @@
 <div align="right"> 
 <a href="https://github.com/ab007shetty/dj4e">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=dj4e&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+</a> 
   
 <a href="https://github.com/ab007shetty/eclassroom-django">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ab007shetty&repo=eclassroom-django&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
@@ -204,4 +204,4 @@
 
 ## 📈Activity Graph
 
-<a href="https://github.com/ab007shetty/github-stats"><img alt="ab007shetty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ab007shetty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ab007shetty/"><img alt="ab007shetty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ab007shetty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
