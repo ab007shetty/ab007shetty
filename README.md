@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
   <img align="left" alt="Anirudha B Shetty | Linkedin" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
-<a href="https://image.flaticon.com/icons/png/512/281/281764.png">
+<a href="https://developers.google.com/profile/u/100233806924265489956">
   <img align="left" alt="Anirudha B Shetty| Google Developer" width="25px" src="https://image.flaticon.com/icons/png/512/281/281764.png" />
 </a>
 <a href="https://ab007shetty.pythonanywhere.com">
