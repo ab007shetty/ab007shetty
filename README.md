@@ -2,7 +2,7 @@
   <img align="left" alt="Anirudha B Shetty | Linkedin" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <a href="https://ab007shetty.github.io/">
-  <img align="left" alt="Anirudha B Shetty| Portfolio" width="25px" src="https://image.flaticon.com/icons/png/512/893/893505.png" />
+  <img align="left" alt="Anirudha B Shetty| Portfolio" width="25px" src="https://image.flaticon.com/icons/png/512/3237/3237472.png" />
 </a>
 <a href="https://ab007shetty.pythonanywhere.com">
   <img align="left" alt="Anirudha B Shetty| Blog" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1187/1187544.svg" />
