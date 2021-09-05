@@ -8,10 +8,10 @@
   <img align="left" alt="Anirudha B Shetty| Google Developer" width="25px" src="https://image.flaticon.com/icons/png/512/281/281764.png" />
 </a>
 <a href="https://ab007shetty.pythonanywhere.com">
-  <img align="left" alt="Anirudha B Shetty| Blog" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1187/1187544.svg" />
+  <img align="left" alt="Anirudha B Shetty| Blog" width="25px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
 </a>
 <a href="https://twitter.com/ab007shetty/">
-  <img align="left" alt="Anirudha B Shetty| Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+  <img align="left" alt="Anirudha B Shetty| Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
 </a>
 <a href="mailto:ab007shetty@gmail.com">
   <img align="left" alt="Anirudha B Shetty| Gmail" width="25px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
