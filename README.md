@@ -19,6 +19,9 @@
 <a href="https://www.instagram.com/a.b.shetty/">
   <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
 </a>
+<a href="https://scholar.google.com/citations?user=i1vJxMYAAAAJ">
+  <img align="left"  width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
+</a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
 <hr>
