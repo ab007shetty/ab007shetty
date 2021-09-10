@@ -1,23 +1,23 @@
 <a href="https://ab007shetty.github.io/">
-  <img align="left" alt="Anirudha B Shetty| Portfolio" width="30px" src="logo.png" />
+  <img align="left"  width="30px" src="logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
-  <img align="left" alt="Anirudha B Shetty | Linkedin" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://developers.google.com/profile/u/100233806924265489956">
-  <img align="left" alt="Anirudha B Shetty| Google Developer" width="25px" src="https://image.flaticon.com/icons/png/512/281/281764.png" />
+  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/281/281764.png" />
 </a>
 <a href="https://ab007shetty.pythonanywhere.com">
-  <img align="left" alt="Anirudha B Shetty| Blog" width="25px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
 </a>
 <a href="https://twitter.com/ab007shetty/">
-  <img align="left" alt="Anirudha B Shetty| Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
 </a>
 <a href="mailto:ab007shetty@gmail.com">
-  <img align="left" alt="Anirudha B Shetty| Gmail" width="25px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
 </a>
 <a href="https://www.instagram.com/a.b.shetty/">
-  <img align="left" alt="Anirudha B Shetty| Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
+  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
 </a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
