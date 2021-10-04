@@ -28,6 +28,9 @@
 <a href="https://gist.github.com/ab007shetty">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 </a>
+<a href="https://www.qwiklabs.com/public_profiles/a71f17d6-36af-4e30-b70f-8771bf211324">
+  <img align="left"  width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qeYbCcjfEiqEaooVhmw_iuKuCka_ZsYyCt7zbnoFXDbDYZeu1rFMGE7gjBv7zC1FszA&usqp=CAU" />
+</a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
 <hr>
