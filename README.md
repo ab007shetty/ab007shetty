@@ -22,6 +22,12 @@
 <a href="https://scholar.google.com/citations?user=i1vJxMYAAAAJ">
   <img align="left"  width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
 </a>
+<a href="https://www.credly.com/users/anirudha-b-shetty/badges">
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/1378/1378577.png" />
+</a>
+<a href="https://gist.github.com/ab007shetty">
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+</a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
 <hr>
