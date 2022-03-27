@@ -2,10 +2,10 @@
   <img align="left"  width="30px" src="logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
-  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://g.dev/ab007shetty">
-  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/281/281764.png" />
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" />
 </a>
 <a href="https://ab007shetty.pythonanywhere.com">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
@@ -14,10 +14,10 @@
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
 </a>
 <a href="mailto:ab007shetty@gmail.com">
-  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 <a href="https://www.instagram.com/a.b.shetty/">
-  <img align="left"  width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://scholar.google.com/citations?user=i1vJxMYAAAAJ">
   <img align="left"  width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
@@ -111,9 +111,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome" />
+        <img src="https://img.icons8.com/color/344/sap.png" width="48" height="48" alt="SAP" />
       </a>
-      <br>Chrome
+      <br>SAP
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -135,7 +135,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="48" height="48" alt="Django" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
