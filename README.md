@@ -31,6 +31,9 @@
 <a href="https://www.qwiklabs.com/public_profiles/a71f17d6-36af-4e30-b70f-8771bf211324">
   <img align="left"  width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qeYbCcjfEiqEaooVhmw_iuKuCka_ZsYyCt7zbnoFXDbDYZeu1rFMGE7gjBv7zC1FszA&usqp=CAU" />
 </a>
+<a href="https://bit.ly/3IJ8Ds3">
+  <img align="left"  width="25px" src="https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/128/search_pointer.png" />
+</a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
 <hr>
