@@ -83,7 +83,7 @@
 </div>
 <hr>
  
- ## 💖 My Favorite Tools
+## 🤖 Known Languages 
 
 <div>
 <table>
@@ -102,6 +102,71 @@
     </td>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" height="48" alt="JAVA" />
+      </a>
+      <br>JAVA
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1653367816~hmac=5948ec6eca2d9b998e4aa8182fd30e44" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="abap.png" width="48" height="48" alt="ABAP" />
+      </a>
+      <br>ABAP
+    </td>
+  </tr>
+  </table>                                                                                                                                      
+  </div>    
+                                                                                                                                            
+                                                                                                                                           
+                                                                                                                             
+ ## 💖 Favorite Tools & Tech
+
+<div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.icons8.com/color/344/sap.png" width="48" height="48" alt="SAP" />
+      </a>
+      <br>SAP
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
@@ -114,15 +179,15 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://img.icons8.com/color/344/sap.png" width="48" height="48" alt="SAP" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
       </a>
-      <br>SAP
+      <br>Azure
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="48" height="48" alt="Heroku" />
       </a>
-      <br>JavaScript
+      <br>Heroku
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -143,6 +208,7 @@
       <br>Django
     </td>
   </tr>
+                                                                                                                                             
   <tr>
     <td align="center" width="96"> 
       <a href="#">
@@ -152,15 +218,15 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="VS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android" />
       </a>
-      <br>VS Code
+      <br>Android Studio
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="FireBase" />
       </a>
-      <br>GitHub
+      <br>Firebase
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -170,9 +236,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
       </a>
-      <br>Linux
+      <br>OpenGL
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -182,9 +248,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="php" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
       </a>
-      <br>PHP
+      <br>SQLite
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -194,7 +260,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="node" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
       </a>
       <br>NodeJS
     </td>
