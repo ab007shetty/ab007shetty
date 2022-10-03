@@ -132,15 +132,15 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1653367816~hmac=5948ec6eca2d9b998e4aa8182fd30e44" width="48" height="48" alt="SQL" />
+        <img src="https://cdn-icons-png.flaticon.com/512/8422/8422322.png" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="abap.png" width="48" height="48" alt="ABAP" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>ABAP
+      <br>C#
     </td>
   </tr>
   </table>                                                                                                                                      
@@ -153,18 +153,6 @@
 <div>
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
-      </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://img.icons8.com/color/344/sap.png" width="48" height="48" alt="SAP" />
-      </a>
-      <br>SAP
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
@@ -189,12 +177,18 @@
       </a>
       <br>Heroku
     </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://img.icons8.com/color/344/sap.png" width="48" height="48" alt="SAP" />
       </a>
-      <br>React
-    </td>
+      <br>SAP
+    </td> 
     <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
@@ -207,15 +201,39 @@
       </a>
       <br>Django
     </td>
-  </tr>
-                                                                                                                                             
-  <tr>
     <td align="center" width="96"> 
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="jupyter" />
       </a>
       <br>Jupyter
     </td>
+  </tr>
+                                                                                                                                             
+  <tr>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+      </a>
+      <br>NodeJS
+    </td>   
     <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android" />
@@ -234,13 +252,23 @@
       </a>
       <br>WordPress
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="ASP.Net" />
       </a>
-      <br>OpenGL
+      <br>ASP.Net
     </td>
     <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" />
+      </a>
+      <br>Raspberry Pi
+    </td>  
+  </tr>
+  
+  
+  <tr>
+ <td align="center"  width="96">
       <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
@@ -251,19 +279,51 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
       </a>
       <br>SQLite
+    </td> 
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="48" height="48" alt="OpenGL" />
       </a>
-      <br>MongoDB
+      <br>OpenGL
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome" />
+      </a>
+      <br>Chrome
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <br>Visual Studio
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" />
       </a>
-      <br>NodeJS
+      <br>Anaconda
+    </td>  
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="48" height="48" alt="SQL Server" />
+      </a>
+      <br>SQL Server
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   
+   
   </tr>
 </table>
 </div>
