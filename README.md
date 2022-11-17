@@ -1,23 +1,26 @@
 <a href="https://ab007shetty.github.io/">
   <img align="left"  width="30px" src="logo.png" />
 </a>
+<a href="https://ab007shetty.github.io/resume/resume.pdf" target="_blank">
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/909/909212.png" />
+</a>
+<a href="https://www.instagram.com/a.b.shetty/">
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+<a href="https://ab007shetty.pythonanywhere.com">
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
+</a>
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://g.dev/ab007shetty">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" />
 </a>
-<a href="https://ab007shetty.pythonanywhere.com">
-  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
-</a>
 <a href="https://twitter.com/ab007shetty/">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
 </a>
 <a href="mailto:ab007shetty@gmail.com">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a>
-<a href="https://www.instagram.com/a.b.shetty/">
-  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://scholar.google.com/citations?user=i1vJxMYAAAAJ">
   <img align="left"  width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
@@ -34,6 +37,7 @@
 <a href="https://bit.ly/3IJ8Ds3">
   <img align="left"  width="25px" src="https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/128/search_pointer.png" />
 </a>
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
 <hr>
