@@ -4,6 +4,9 @@
 <a href="https://ab007shetty.github.io/resume/resume.pdf" target="_blank">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/909/909212.png" />
 </a>
+<a href="https://www.coursera.org/user/9a1f6f65c70233a4cbf41887f48e0c06" target="_blank">
+  <img align="left"  width="25px" src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" />
+</a>
 <a href="https://www.instagram.com/a.b.shetty/">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
