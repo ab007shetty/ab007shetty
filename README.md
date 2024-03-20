@@ -20,7 +20,7 @@
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" />
 </a>
 <a href="https://twitter.com/ab007shetty/">
-  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
+  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" />
 </a>
 <a href="mailto:ab007shetty@gmail.com">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
@@ -52,12 +52,7 @@
   <img src="https://github.com/ab007shetty/ab007shetty/blob/main/6.png"" width="">
 </h1>
 
- I am a passionate self-taught Full Stack web developer and a Computer Science Engineer from India.
- I have little bit experience and lots of Interest in Full Stack Web Developement.
- Some technology I enjoy working  with include Django, MySQl, React, BootStarp4 etc.
-
 <br>
-
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/ab007shetty/ab007shetty/blob/main/code.gif" width="300" height="194" />
@@ -171,7 +166,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
@@ -340,7 +335,6 @@
 <hr>
 
  
- 
  ## 📘 My Repositories
 
   
@@ -357,8 +351,6 @@
 <hr>
 
 
-
-
 ## 📈Activity Graph
 
-<a href="https://github.com/ab007shetty/"><img alt="ab007shetty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ab007shetty&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ab007shetty/"><img alt="ab007shetty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ab007shetty&bg_color=000000&color=ffffff&line=138be7&point=fbff00&area=true&hide_border=true"/></a>
