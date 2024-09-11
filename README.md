@@ -1,6 +1,6 @@
 <div>
   <a href="https://ab007shetty.github.io/">
-    <img align="left" width="26px" src="logo.png" />
+    <img align="left" width="30px" src="logo.png" />
   </a>
   <a href="https://www.coursera.org/user/9a1f6f65c70233a4cbf41887f48e0c06" target="_blank">
     <img align="left" width="24px" src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" />
@@ -36,11 +36,12 @@
     <img align="left" width="24px" src="https://img.icons8.com/officel/80/parse-from-clipboard.png" />
   </a>
   <a href="https://monkeytype.com/profile/abshetty">
-    <img align="left" width="26px" src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/210812d15c9e6399115a4bdeb49bd950770dbb63/monkeytype-icon/logo-svg/sweden.svg" />
+    <img align="left" width="30px" src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/210812d15c9e6399115a4bdeb49bd950770dbb63/monkeytype-icon/logo-svg/sweden.svg" />
   </a>
     <a href="https://bit.ly/3IJ8Ds3">
     <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/128/search_pointer.png" />
   </a>
+  &emsp;
   <a href="#">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
   </a>
@@ -56,11 +57,11 @@
 
 <div>
   <a href="https://ab007shetty.github.io/">
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github Stats By AB Shetty">
+    <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github Stats By AB Shetty">
   </a>
   
   <a href="https://git.io/streak-stats">
-    <img align="right" width="50%" src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
+    <img align="right" width="450px" src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
   </a>
 </div>
 <hr> 
