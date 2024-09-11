@@ -57,11 +57,11 @@
 
 <div>
   <a href="https://ab007shetty.github.io/">
-    <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github Stats By AB Shetty">
+    <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github Stats By AB Shetty">
   </a>
   
   <a href="https://git.io/streak-stats">
-    <img align="right" width="450px" src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
+    <img align="right" width="300px" src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
   </a>
 </div>
 <hr> 
