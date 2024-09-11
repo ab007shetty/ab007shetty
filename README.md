@@ -17,17 +17,11 @@
   <a href="https://twitter.com/ab007shetty/">
     <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" />
   </a>
-  <a href="mailto:ab007shetty@gmail.com">
-    <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-  </a>
   <a href="https://scholar.google.com/citations?user=i1vJxMYAAAAJ">
     <img align="left" width="24px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
   </a>
   <a href="https://www.credly.com/users/anirudha-b-shetty/badges">
     <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/1378/1378577.png" />
-  </a>
-  <a href="https://gist.github.com/ab007shetty">
-    <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
   </a>
   <a href="https://sites.google.com/view/abshetty">
     <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
@@ -62,11 +56,11 @@
 
 <div>
   <a href="https://ab007shetty.github.io/">
-    <img align="left" width="75%" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github Stats By AB Shetty">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github Stats By AB Shetty">
   </a>
   
   <a href="https://git.io/streak-stats">
-    <img align="right" width="75%" src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
+    <img align="right" width="50%" src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
   </a>
 </div>
 <hr> 
