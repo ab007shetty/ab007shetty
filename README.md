@@ -36,7 +36,7 @@
     <img align="left" width="25px" src="https://img.icons8.com/officel/80/parse-from-clipboard.png" />
   </a>
   <a href="https://monkeytype.com/profile/abshetty">
-    <img align="left" width="30px" src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/210812d15c9e6399115a4bdeb49bd950770dbb63/monkeytype-icon/logo-svg/sweden.svg" />
+    <img align="left" width="40px" src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/210812d15c9e6399115a4bdeb49bd950770dbb63/monkeytype-icon/logo-svg/sweden.svg" />
   </a>
     <a href="https://bit.ly/3IJ8Ds3">
     <img align="left" width="25px" src="https://cdn1.iconfinder.com/data/icons/google_jfk_icons_by_carlosjj/128/search_pointer.png" />
@@ -46,7 +46,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ab007shetty.ab007shetty">
   </a>
 </div>
-<hr>
 
 
 <h1 align="left">
