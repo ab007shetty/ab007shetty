@@ -10,9 +10,6 @@
 <a href="https://www.instagram.com/a.b.shetty/">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://ab007shetty.pythonanywhere.com">
-  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" />
-</a>
 <a href="https://www.linkedin.com/in/anirudha-b-shetty-29a338111/">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
@@ -61,14 +58,12 @@
 <br>
 
 
-<div>
-  <img align="right"  src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
-  
- [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite)](https://ab007shetty.github.io/)
-
+<div >
+  <img align="right" width="49%" src="https://streak-stats.demolab.com?user=ab007shetty&theme=neon" alt="GitHub Streak">
+  <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=ab007shetty&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github Stats By AB Shetty">
 </div>
-<hr> 
 
+<br><br><br><br><br><br><br><br><hr>
   
 ## 📊 Github Stats
 <div>
