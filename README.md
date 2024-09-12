@@ -28,9 +28,6 @@
 <a href="https://www.credly.com/users/anirudha-b-shetty/badges">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/1378/1378577.png" />
 </a>
-<a href="https://gist.github.com/ab007shetty">
-  <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
-</a>
 <a href="https://sites.google.com/view/abshetty">
   <img align="left"  width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
